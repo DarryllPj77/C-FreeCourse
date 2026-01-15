@@ -1,0 +1,14 @@
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\bin\Debug\net10.0\UserInput.exe
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\bin\Debug\net10.0\UserInput.deps.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\bin\Debug\net10.0\UserInput.runtimeconfig.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\bin\Debug\net10.0\UserInput.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\bin\Debug\net10.0\UserInput.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfoInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfo.cs
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.csproj.CoreCompileInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\refint\UserInput.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\UserInput.genruntimeconfig.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\UserInput\UserInput\obj\Debug\net10.0\ref\UserInput.dll

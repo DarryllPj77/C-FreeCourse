@@ -1,0 +1,14 @@
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\bin\Debug\net10.0\TypeCasting.exe
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\bin\Debug\net10.0\TypeCasting.deps.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\bin\Debug\net10.0\TypeCasting.runtimeconfig.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\bin\Debug\net10.0\TypeCasting.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\bin\Debug\net10.0\TypeCasting.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.AssemblyInfoInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.AssemblyInfo.cs
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.csproj.CoreCompileInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\refint\TypeCasting.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\TypeCasting.genruntimeconfig.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\TypeCasting\TypeCasting\obj\Debug\net10.0\ref\TypeCasting.dll

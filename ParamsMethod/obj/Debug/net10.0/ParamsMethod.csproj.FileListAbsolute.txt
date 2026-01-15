@@ -1,0 +1,14 @@
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\bin\Debug\net10.0\ParamsMethod.exe
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\bin\Debug\net10.0\ParamsMethod.deps.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\bin\Debug\net10.0\ParamsMethod.runtimeconfig.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\bin\Debug\net10.0\ParamsMethod.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\bin\Debug\net10.0\ParamsMethod.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.AssemblyInfoInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.AssemblyInfo.cs
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.csproj.CoreCompileInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\refint\ParamsMethod.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ParamsMethod.genruntimeconfig.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\ParamsMethod\obj\Debug\net10.0\ref\ParamsMethod.dll

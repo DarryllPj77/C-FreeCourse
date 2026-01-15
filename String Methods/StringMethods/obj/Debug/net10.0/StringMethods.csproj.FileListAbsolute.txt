@@ -1,0 +1,14 @@
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\bin\Debug\net10.0\StringMethods.exe
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\bin\Debug\net10.0\StringMethods.deps.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\bin\Debug\net10.0\StringMethods.runtimeconfig.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\bin\Debug\net10.0\StringMethods.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\bin\Debug\net10.0\StringMethods.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.AssemblyInfoInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.AssemblyInfo.cs
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.csproj.CoreCompileInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\refint\StringMethods.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\StringMethods.genruntimeconfig.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\FreeCourse\String Methods\StringMethods\obj\Debug\net10.0\ref\StringMethods.dll
